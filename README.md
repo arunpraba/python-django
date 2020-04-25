@@ -8,3 +8,4 @@ Packages used
 - autopep8 style guide followed
 - flake8 used for linting
 - black is used for formatting
+- Pillow is used for handling image uploads
